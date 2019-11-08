@@ -13,5 +13,5 @@
             // code...
             break;
         }
-        echo <h3>"hola usuario ".$type." ".$_SESSION["username"];</h3>
+        echo "hola usuario ".$type." ".$_SESSION["username"];
  ?>
